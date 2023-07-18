@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+	font-family: Calibri;
+}
+
+#res{
+	font-size: 60px;
+	color: red;
+}
